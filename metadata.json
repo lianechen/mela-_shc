@@ -1,0 +1,7 @@
+{
+  "name": "Liquid Audio Dreams",
+  "description": "A visually immersive audio visualization experience featuring soft liquid aesthetics and bubble dynamics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
